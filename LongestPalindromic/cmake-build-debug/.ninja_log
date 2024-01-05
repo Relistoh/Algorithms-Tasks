@@ -1,0 +1,15 @@
+# ninja log v5
+4	249	1697055241908274077	CMakeFiles/LongestPalindromic.dir/main.cpp.o	19917ecd2fff62a6
+249	273	1697055241934077870	LongestPalindromic	9d7909d7856ac66f
+3	289	1697056721452698191	CMakeFiles/LongestPalindromic.dir/main.cpp.o	19917ecd2fff62a6
+289	317	1697056721483027172	LongestPalindromic	9d7909d7856ac66f
+5	286	1697057020481828865	CMakeFiles/LongestPalindromic.dir/main.cpp.o	19917ecd2fff62a6
+286	314	1697057020511780780	LongestPalindromic	9d7909d7856ac66f
+7	421	1697380739581720786	CMakeFiles/LongestPalindromic.dir/main.cpp.o	19917ecd2fff62a6
+421	466	1697380739629004807	LongestPalindromic	9d7909d7856ac66f
+8	470	1697380861911373130	CMakeFiles/LongestPalindromic.dir/main.cpp.o	19917ecd2fff62a6
+470	517	1697380861961266519	LongestPalindromic	9d7909d7856ac66f
+8	468	1697381388669695667	CMakeFiles/LongestPalindromic.dir/main.cpp.o	19917ecd2fff62a6
+468	516	1697381388720697273	LongestPalindromic	9d7909d7856ac66f
+7	458	1697381422888664947	CMakeFiles/LongestPalindromic.dir/main.cpp.o	19917ecd2fff62a6
+458	505	1697381422938154441	LongestPalindromic	9d7909d7856ac66f

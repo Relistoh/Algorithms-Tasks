@@ -1,0 +1,13 @@
+# ninja log v5
+0	469	1697982568744986103	CMakeFiles/BinarySearchTreeBuild.dir/main.cpp.o	96aabb975f06ef2a
+471	511	1697982568789474245	BinarySearchTreeBuild	10c1837f0c20f141
+7	421	1697982638448774736	CMakeFiles/BinarySearchTreeBuild.dir/main.cpp.o	96aabb975f06ef2a
+422	462	1697982638492175119	BinarySearchTreeBuild	10c1837f0c20f141
+7	403	1697982771235011324	CMakeFiles/BinarySearchTreeBuild.dir/main.cpp.o	96aabb975f06ef2a
+404	442	1697982771276461692	BinarySearchTreeBuild	10c1837f0c20f141
+8	404	1697983010186716949	CMakeFiles/BinarySearchTreeBuild.dir/main.cpp.o	96aabb975f06ef2a
+404	443	1697983010228622008	BinarySearchTreeBuild	10c1837f0c20f141
+7	401	1697983268160477297	CMakeFiles/BinarySearchTreeBuild.dir/main.cpp.o	96aabb975f06ef2a
+401	441	1697983268203326895	BinarySearchTreeBuild	10c1837f0c20f141
+7	405	1697983589779402520	CMakeFiles/BinarySearchTreeBuild.dir/main.cpp.o	96aabb975f06ef2a
+405	444	1697983589821422404	BinarySearchTreeBuild	10c1837f0c20f141
